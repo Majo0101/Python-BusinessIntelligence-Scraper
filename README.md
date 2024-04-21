@@ -14,15 +14,19 @@ Below are some example visualizations created in Power BI from the data scraped 
 
 <img src="Dashboard1.png" alt="Power BI Dashboard Example 1" style="max-width: 600px; width: 100%;" />
 Figure: A Power BI dashboard snapshot depicting portfolio allocation by country, top holdings, and sector weightings, each percentage weighted by ETF type.
-</br>
+<br/><br/>
+
 <img src="Dashboard2.png" alt="Power BI Dashboard Example 2" style="max-width: 600px; width: 100%;" />
 Figure: A Power BI dashboard snapshot depicting portfolio allocation by country, top holdings, and sector weightings, each percentage weighted by ETF type. Used different filter.
-</br>
+<br/><br/>
+
 <img src="Dashboard3.png" alt="Power BI Dashboard Example 3" style="max-width: 600px; width: 100%;" />
 Figure: Power BI dashboard detailing ETF prices, weighted portfolio values, and share distribution, with weighted volatility and total expense ratio metrics included.
-</br>
+<br/><br/>
+
 <img src="Dashboard4.png" alt="Power BI Dashboard Example 4" style="max-width: 600px; width: 100%;" />
 Figure: Power BI dashboard detailing ETF prices, weighted portfolio values, and share distribution, with weighted volatility and total expense ratio metrics included. Used different filter.
-</br>
+<br/><br/>
+
 ## Note
 The data and portfolio visualizations presented in this project are for demonstration purposes only and do not represent a real investment portfolio. They are intended to showcase the functionality of the Python-BusinessIntelligence-Scraper tool and its integration with Power BI for data visualization. Users should exercise caution and perform their own analysis before making any investment decisions based on the information provided by this project.
